@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 
-namespace LoncheriaSanchez.Data
+namespace LoncheriaSanchez.AccesoDatos
 {
     public class ApplicationDbContext : IdentityDbContext
     {
